@@ -1,7 +1,7 @@
 import os
 
 folder_path = "/Users/joel/Library/CloudStorage/OneDrive-UniversityofTexasatSanAntonio/UTSA/EPICS/Python"
-image_formats = [".jpg", ".jpeg", ".png", ".gif"]  # Add more formats as needed
+image_formats = [".jpg", ".jpeg", ".png", ".gif"]  # Add more formats as needed JD
 
 def rename_images_in_folder(folder_path, image_formats):
     image_count = 0
